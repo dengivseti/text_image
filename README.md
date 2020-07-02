@@ -19,10 +19,6 @@ obj.text_image(text, 'font/unifont.ttf', font_size=30, place=place, margin=(10,1
 
 ![Result](default.jpg "Optional title")
 
-font_size=12, color_text=(0, 0, 0),
-                   color_background=(255, 255, 255),
-                   place='left', margin = (0, 0, 0, 0), max_width=100, filename=None
-
 ## Variables obj.text_image()
 
   |Variable|Value|Default|
